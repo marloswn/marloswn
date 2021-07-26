@@ -6,7 +6,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-12345-6', 'auto');
 ga('send', 'pageview');
 
-// Funcções para disparar eventos
+// Constantes para disparar eventos
 const handleClickEventContact = event => {
   ga('send', 'event', {
     eventCategory: 'menu',
