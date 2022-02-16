@@ -1,0 +1,11 @@
+cod_movimento_flat;nome_associado;sobrenome_associado;idade_associado;vlr_transacao_movimento;des_transacao_movimento;data_movimento;numero_cartao;nome_impresso_cartao;data_criacao_cartao;tipo_conta;data_criacao_conta
+1;Marlos;Nascimento;33;215.23;Lojas ABC;2012-03-15;1234;Marlos Nascimento;2012-02-01;Conta corrente;2012-01-17
+2;Ronaldo;Abreu;22;100.0;Ingresso Online;2015-06-20;5678;Ronaldo Abreu;2015-05-10;Conta corrente;2015-05-03
+3;Antonio;Nunes;50;632.5;Faculdades XYZ;2022-02-11;3456;Antonio Nunes;2022-02-10;Conta corrente;2022-01-07
+4;Antonio;Nunes;50;112.99;Esporte Center;2022-02-12;7890;Antonio Nunes;2022-02-10;Conta investimento;2022-02-01
+5;Marlos;Nascimento;33;50.0;Recarga Fácil;2013-02-01;1234;Marlos Nascimento;2012-02-01;Conta corrente;2012-01-17
+6;Marlos;Nascimento;33;22.15;Lanchonete da Esquina;2012-04-20;1234;Marlos Nascimento;2012-02-01;Conta corrente;2012-01-17
+7;Abílio;Abreu;62;42.17;Quitanda do Vovô;2020-11-01;3344;Abílio Abreu;2013-10-05;Conta investimento;2013-10-01
+8;Abílio;Abreu;62;119.9;Academia 123;2020-12-15;3344;Abílio Abreu;2013-10-05;Conta investimento;2013-10-01
+9;Abílio;Abreu;62;1189.9;Lojas ABC;2014-12-10;4455;Abílio Abreu;2014-12-10;Conta corrente;2014-12-07
+10;Ronaldo;Abreu;22;315.74;Esporte Center;2015-05-15;5678;Ronaldo Abreu;2015-05-10;Conta corrente;2015-05-03
