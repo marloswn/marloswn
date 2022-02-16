@@ -40,12 +40,19 @@ Abrigar os arquivos e instruções referentes à modelagem de dados de movimenta
 * Foi adicionado o campo cod_movimento na tabela movimento_flat para garantir a persistencia histórica dos dados, caso os dados transacionais sofram alteração, observando, desta maneira, o conceito de SCD (Slowly Changing Dimension);
 
 
-## Sugestões e observações:
+## Sugestões e observações
 
 * Armazenar o sexo do associado nos dados transacionais, para traçar o perfil de movimentações por gênero;
 * Além dos dados transacionais, poderiam ser ingeridos dados de outras fontes, como planilhas, web, logs, etc, através da leitura dos mesmos em uma aplicação Python e posterior ingestão no Data Mart;
 * Os dados inseridos no banco poderiam ter sido originados de planilhas ou arquivos CSV, os quais podem ser tratados diretamente na aplicação Python;
 * Caso o modelo de negócios permita, adicionar cartões adicionais para dependentes, gerando mais receita e mais opções de análises.
+
+## Pontos não abordados
+
+* Diretório de escrita do arquivo parametrizado pelo usuário;
+* Utilização de framework de processamento distribuído;
+* Provisionamento do ambiente e execução inicial do processo de maneira automatizada utilizando Docker;
+* Testes unitários.
 
 ## Contato 
 
